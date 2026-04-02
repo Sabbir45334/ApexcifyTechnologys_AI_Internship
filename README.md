@@ -27,35 +27,35 @@ bash
 python rock-paper-scissors/game.py
 
 
-🤖 Project 2: Personalized AI Chatbot
+🤖 **Project 2: Personalized AI Chatbot**
 A Natural Language Processing (NLP) chatbot that can answer questions about me, my life, skills, and interests.
 The chatbot uses TF-IDF vectorization and cosine similarity to find the best-matching answers.
 
-Features:
+**Features:**
 Personalized responses about Rahmat Ullah Sabbir
 Handles unknown questions gracefully
 Dynamic, user-friendly command-line interface
 NLP preprocessing: tokenization, cleaning, and similarity matching
 
-Skills Learned:
+**Skills Learned:**
 NLP using NLTK
 TF-IDF & Cosine Similarity using scikit-learn
 Text preprocessing & chatbot logic
 Personalized AI interaction
 
-Run the chatbot locally:
+**Run the chatbot locally:**
 python chatbot/chatbot_nlp.py
 
-🛠 Technologies Used
+🛠 **Technologies Used:**
 Python 3.14
 NLTK (Natural Language Toolkit)
 scikit-learn (TF-IDF & cosine similarity)
 Random module (game logic)
 
-👤 About the Author
+👤 **About the Author:**
 Rahmat Ullah Sabbir
 BSc (Hons) Computing Systems, Ulster University
 International student passionate about AI, software development, and technology innovation
 Hobbies: Cricket, Football, Travelling, Gardening
 
-Skills Highlight: Python, Problem-Solving, Machine Learning, AI, NLP
+**Skills Highlight:** Python, Problem-Solving, Machine Learning, AI, NLP
