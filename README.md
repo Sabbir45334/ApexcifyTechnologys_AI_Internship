@@ -23,7 +23,7 @@ A Python-based Rock-Paper-Scissors game where the player competes against a comp
 - Basic interactive game design  
 
 **Run the game locally:**
-```bash
+bash
 python rock-paper-scissors/game.py
 
 
